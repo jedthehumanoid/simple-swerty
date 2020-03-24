@@ -8,14 +8,23 @@ Works for Linux
 
 ## What is changed?
 
-- Add `include "level3(ralt_switch)"` to symbols file, 
+- Add `include "level3(ralt_switch)"` to symbols file,\
   AltGr key does not work for me otherwise
-- Simplify. 
-  Original Swerty has old AltGr mappings for convenience.
+- Simplify.\
+  Original Swerty has old AltGr mappings for convenience.\
   This only makes me lazy, stopping me from learning.
 - Based on US keyboard.
 - Simple installer
 
+## Usage
 
+To patch configuration files:
+```bash
+make
+```
 
-
+To install:
+```bash
+sudo make install
+```
+Or manually copy files to /usr/share/X11/xkb/symbols and .../xkb/rules to install.
