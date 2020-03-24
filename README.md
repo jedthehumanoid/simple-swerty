@@ -30,3 +30,5 @@ sudo make install
 Alternatively manually copy `se` to /usr/share/X11/xkb/symbols \
 and `evdev.xml`, `evdev.lst` to /usr/share/X11/xkb/rules \
 to install.
+
+Logout might be needed to reload files.
