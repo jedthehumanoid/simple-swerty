@@ -6,6 +6,9 @@ Minor changes to original Swerty, for personal preferences
 
 Works for Linux
 
+This is basically symmetric with `Swedish (US, with Swedish letters)`, \
+but with ÅÄÖ as default on keys, US keys on AltGr
+
 ## What is changed?
 
 - Add `include "level3(ralt_switch)"` to symbols file. \
