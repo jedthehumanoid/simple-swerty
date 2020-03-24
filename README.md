@@ -4,7 +4,7 @@ Original Swerty: http://johanegustafsson.net/projects/swerty/
 
 Minor changes to original Swerty, for personal preferences
 
-Only for Linux
+Works for Linux
 
 ## What is changed?
 
