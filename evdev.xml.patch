@@ -1,0 +1,15 @@
+--- evdev.xml.orig	2020-03-24 17:12:45.358563001 +0100
++++ evdev.xml	2020-03-24 17:15:42.348401261 +0100
+@@ -5118,6 +5118,12 @@
+             </languageList>
+           </configItem>
+         </variant>
++	<variant>
++          <configItem>
++            <name>simple_swerty</name>
++            <description>Swedish (Simple Swerty)</description>
++          </configItem>
++        </variant>
+       </variantList>
+     </layout>
+     <layout>

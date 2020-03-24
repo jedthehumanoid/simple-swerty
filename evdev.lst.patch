@@ -1,0 +1,10 @@
+--- evdev.lst.orig	2020-03-24 17:24:55.628895448 +0100
++++ evdev.lst	2020-03-24 17:27:14.868768234 +0100
+@@ -673,6 +673,7 @@
+   us_dvorak       se: Swedish (based on US Intl. Dvorak)
+   us              se: Swedish (US, with Swedish letters)
+   swl             se: Swedish Sign Language
++  simple_swerty   se: Swedish (Simple Swerty)
+   legacy          ch: German (Switzerland, legacy)
+   de_nodeadkeys   ch: German (Switzerland, no dead keys)
+   de_sundeadkeys  ch: German (Switzerland, with Sun dead keys)
